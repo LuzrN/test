@@ -1,0 +1,33 @@
+this is 1st file
+version b
+C
+sg
+
+<<<<<<< HEAD
+"New update for updating"
+
+11111111111112345
+=======
+A New update for updating
+
+2222222222
+>>>>>>> text_edits
+
+changes
+
+ggg
+<<<<<<< HEAD
+:Dagagagasgag
+
+
+123456
+
+<div>Git is great.</div>
+=======
+:(agagagasgag
+
+
+123555
+
+<p>Git is great.</p>
+>>>>>>> text_edits

@@ -4,15 +4,11 @@ C
 sg
 
 "New update for updating"
-
 11111111111112345
-
 changes
 
 ggg
 :Dagagagasgag
 
-
 123456
-
-<div>Git is great.</div>
+<p>Git is great.</p>
